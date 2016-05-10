@@ -1,0 +1,10 @@
+{
+  "name": "broccoli-stats-async",
+  "version": "0.0.1",
+  "description": "Broccoli plugin to report total build size and timestamp.",
+  "main": "index.js",
+  "dependencies": {
+    "broccoli-plugin": "^1.0.0",
+    "rsvp": "^3.0.6"
+  }
+}
